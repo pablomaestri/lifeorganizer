@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="toastBackgroundColor">#BB222222</color>
+    <color name="toastTextColor">#F9E888</color>
+
+    <color name="itemActivityIconColor">#FF4081</color>
+
+    <color name="floatButtonIconColor">#FFFFFF</color>
+
+    <color name="colorText">#000000</color>
+    <color name="textAreaEditTextBackgroundColor">#FFFFFF</color>
+    <color name="textAreaEditTextBorderColor">#555555</color>
+
+    <color name="colorDefault">#000000</color>
+
+    <color name="colorItemCompleted">#006400</color>
+    <color name="colorItemUncompleted">#ffffff</color>
+    <color name="colorActivityCompleted">#003000</color>
+
+</resources>
